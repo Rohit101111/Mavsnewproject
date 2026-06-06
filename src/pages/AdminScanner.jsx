@@ -300,7 +300,7 @@ export default function AdminScanner({ setActivePage, setSelectedProductId, sele
       setLoading(true);
       setError(null);
       setStatusText('Loading catalog product details for editing...');
-      const res = await fetch(`/api/products/${id}`);
+      const res = await fetch(`https://mavsnewproject.onrender.com/api/products/${id}`);
       if (!res.ok) throw new Error('Product not found in database');
       const prod = await res.json();
       
@@ -755,12 +755,15 @@ export default function AdminScanner({ setActivePage, setSelectedProductId, sele
       resources: resources.filter(r => r.name.trim() !== '')
     };
 
-    try {
-      const endpoint = isEditMode ? `/api/products/${editProduct.id}` : '/api/products';
-      const method = isEditMode ? 'PUT' : 'POST';
-      const res = await fetch(endpoint, {
-        method: method,
-        headers: { 
+      try {
+        const endpoint = isEditMode
+  ? `https://mavsnewproject.onrender.com/api/products/${editProduct.id}`
+  : 'https://mavsnewproject.onrender.com/api/products';
+
+        const method = isEditMode ? 'PUT' : 'POST';
+        const res = await fetch(endpoint, {
+          method: method,
+          headers: { 
           'Content-Type': 'application/json',
           'Authorization': sessionStorage.getItem('mavs_admin_password') || ''
         },
