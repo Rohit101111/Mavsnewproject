@@ -15,7 +15,7 @@ export default function ProductDetail({ productId, setActivePage, onAddToQuote }
     const fetchProductDetails = async () => {
       try {
         setLoading(true);
-        const res = await fetch(`/api/products/${productId}`);
+        const res = await fetch(`https://mavsnewproject.onrender.com/api/products/${productId}`);
         if (!res.ok) throw new Error('Product not found');
         const data = await res.json();
         setProduct(data);
