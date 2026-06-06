@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteBase /
+
+# 1. Do not rewrite /api requests (handled by the api/ folder's own .htaccess)
+RewriteRule ^api/ - [L]
+
+# 2. If the request is a real file or directory, serve it directly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# 3. For any other path, rewrite to index.html (SPA routing fallback)
+RewriteRule ^(.*)$ index.html [L]

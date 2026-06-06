@@ -1,0 +1,169 @@
+[
+  {
+    "name": "HP Poly Studio E-60 - Smart PTZ Camera ",
+    "sku": "9W1A6AA",
+    "brand": "Poly",
+    "category": "Camera",
+    "priceRange": "",
+    "description": "The Poly Studio E60 is a smart 4K PTZ camera designed for medium and large meeting spaces, delivering exceptional video quality and intelligent presenter tracking. Equipped with a powerful 12x optical zoom, dual-lens imaging system, and Poly DirectorAI technology, it automatically keeps speakers in focus while ensuring all participants remain clearly visible. The motorized pan, tilt, and zoom functionality provides flexible room coverage, while 4K Ultra HD resolution captures every detail with remarkable clarity. Easy USB and IP connectivity, along with support for leading video conferencing platforms, simplify deployment and collaboration. Combined with centralized management through Poly Lens, the Poly Studio E60 offers an intelligent, professional-grade conferencing solution for modern hybrid workplaces and presentation environments.",
+    "image": "/images/products/final-image-1-1780672838546.png",
+    "youtubeUrl": "https://www.youtube.com/watch?v=MI6taNnINc8",
+    "highlights": [
+      "• 12x optical zoom captures presenters clearly, even in large rooms.",
+      "• AI-powered presenter tracking automatically keeps speakers centered and focused.",
+      "• Ultra HD 4K resolution delivers sharp, detailed, and professional video.",
+      "• Motorized PTZ camera provides flexible room coverage and precise framing."
+    ],
+    "features": [
+      {
+        "title": "Motorized PTZ Camera with 12x Optical Zoom",
+        "description": "he advanced mechanical pan, tilt, and zoom camera delivers exceptional flexibility, allowing users to capture presenters, participants, and detailed content clearly, even from the back of large meeting rooms.",
+        "image": "/images/products/final-key-1-1780673888354.png"
+      },
+      {
+        "title": "AI-Powered DirectorAI Smart Tracking",
+        "description": "Intelligent AI-driven framing and presenter tracking automatically keep speakers in focus, ensuring a professional and engaging meeting experience without requiring manual camera adjustments.",
+        "image": "/images/products/final-key-2-1780673895066.png"
+      },
+      {
+        "title": "Ultra HD 4K Video Performance",
+        "description": "Featuring dual 8MP image sensors and 4K video resolution, the Poly Studio E60 delivers sharp, lifelike visuals with outstanding detail, helping remote participants stay connected and engaged.",
+        "image": "/images/products/final-key-3-1780674043098.png"
+      },
+      {
+        "title": "Wide Coverage for Large Meeting Spaces",
+        "description": "With motorized pan ranges up to ±170° and tilt ranges up to ±30°, the camera provides extensive room coverage, making it ideal for boardrooms, training rooms, and classrooms.",
+        "image": "/images/products/final-key-4-1780674199932.png"
+      }
+    ],
+    "specifications": {
+      "Camera Resolution": "4K UHD (3840 × 2160), 2160p",
+      "Image Sensor": "Dual 8 MP Sensors, 1/2.8\" CMOS, Dual-Lens Design",
+      "Optical Zoom": "12x Optical Zoom",
+      "Digital Zoom": "16x Digital Zoom",
+      "Field of View (FOV)": "71° HFOV (PTZ Camera), 107° HFOV (Panoramic Camera), 78.1° DFOV",
+      "Pan & Tilt Range": "Pan: ±170°; Tilt: ±30°",
+      "Frame Rate": "Up to 30 fps at 4K UHD",
+      "Autofocus": "Automatic Focus (AF)",
+      "AI Tracking & Auto Framing": "Poly DirectorAI, Presenter Tracking, Group Framing, Automatic Tracking & Framing",
+      "Video Outputs": "USB-B, Gigabit Ethernet (RJ-45), PoE+, 12V DC Input",
+      "Control Protocols": "VISCA, Pelco-D, Pelco-P",
+      "Preset Positions": "Up to 255 Presets (VISCA Standard Support)*",
+      "Power Requirements": "PoE+ (IEEE 802.3at) or 12V DC Power Adapter",
+      "Network Connectivity": "1 × RJ-45 Gigabit Ethernet (10/100/1000 Mbps)",
+      "Mounting Options": "Wall Mount Included; Optional Ceiling Mount and Display Mount Available",
+      "Weight & Dimensions": "321 × 102 × 89.1 mm (W × H × D); Weight: 907 g (2 lb)"
+    },
+    "inTheBox": [
+      "Poly Studio E60",
+      "Wall mount kit",
+      "IR remote control",
+      "USB-B to USB Type-A cable (2 m) & Ethernet cable (5 m)",
+      "Quick start guide"
+    ],
+    "subCategory": "PTZ Camera",
+    "images": [
+      "/images/products/final-image-1-1780672838546.png",
+      "/images/products/image-2-1780673491542.avif",
+      "/images/products/image-3-1780673498726.webp",
+      "/images/products/image-4-1780673503136.jpg"
+    ],
+    "resources": [
+      {
+        "name": "HP Poly Studio E60 - Smart PTZ Camera  Datasheet",
+        "type": "PDF",
+        "url": "/documents/poly-e-60-1780671940593.pdf"
+      },
+      {
+        "name": "HP Poly Studio E60 - Smart PTZ Camera  User Manual",
+        "type": "PDF",
+        "url": "/documents/poly-e-60-user-maual-1780671987436.pdf"
+      }
+    ],
+    "id": "poly-9w1a6aa"
+  },
+  {
+    "name": "Poly Studio V-12 Video Bar ",
+    "sku": "A9DD8AA",
+    "brand": "Poly",
+    "category": "Camera",
+    "subCategory": "All In One Videobar",
+    "priceRange": "",
+    "description": "The Poly Studio V12 is a premium USB video bar designed for small meeting rooms and huddle spaces. Featuring a 20MP 4K camera with a wide 120° field of view, it ensures everyone is clearly seen during meetings. AI-powered camera framing automatically optimizes participant views for a more engaging collaboration experience. Built-in microphones, stereo speakers, and advanced noise reduction technologies deliver clear audio while minimizing distractions. With simple USB connectivity, easy deployment, and centralized device management, the Poly Studio V12 provides a reliable and intelligent solution for modern hybrid meeting environments.",
+    "features": [
+      {
+        "title": "20MP Ultra HD Camera with Wide-Angle Coverage",
+        "description": "Equipped with a high-resolution 20MP camera and expansive 120° field of view, the Poly Studio V12 captures every participant with exceptional clarity, making it ideal for small meeting rooms and collaborative spaces.",
+        "image": "/images/products/key-feature-1-1780665783829.png"
+      },
+      {
+        "title": "AI-Powered DirectorAI Smart Framing",
+        "description": "Advanced DirectorAI technology automatically detects participants, tracks active speakers, and intelligently adjusts framing modes to create a more engaging, inclusive, and natural video conferencing experience for remote and in-room attendees.",
+        "image": "/images/products/key-feature-2-1780666217223.png"
+      },
+      {
+        "title": "Advanced Audio Intelligence and Noise Reduction:",
+        "description": "Featuring NoiseBlockAI and Acoustic Fence technologies, the system effectively minimizes background noise, unwanted conversations, and workplace distractions, ensuring clear, professional communication throughout every meeting.",
+        "image": "/images/products/key-feature-3-1780669204315.png"
+      },
+      {
+        "title": "Integrated Microphone and Speaker Integrated Beamforming Microphones and Premium Speakers",
+        "description": "Built-in beamforming microphone arrays accurately capture voices from across the room, while high-performance stereo speakers deliver rich, crystal-clear audio for seamless collaboration and enhanced meeting productivity.",
+        "image": "/images/products/key-feature-4-1780670228484.png"
+      }
+    ],
+    "specifications": {
+      "Camera Resolution": "20 MP 4K UHD Camera",
+      "Image Sensor": "20 Megapixel, Single-Lens Camera",
+      "Field of View (FOV)": "120° Horizontal FOV, 132° Diagonal FOV",
+      "Zoom Capability": "5x Digital Zoom",
+      "AI Camera Features": "Poly DirectorAI™, Speaker Framing, Group Framing, People Framing",
+      "Microphone Array": "4 MEMS Beamforming Microphones",
+      "Audio Pickup Range": "4.57 m Voice Pickup Range",
+      "Speaker Configuration": "Integrated Stereo Speakers",
+      "Audio Processing Technologies": "NoiseBlockAI & Acoustic Fence Technologies",
+      "Connectivity Interfaces": "2 × USB-C, 2 × USB-A, RJ-45 Gigabit Ethernet, Bluetooth, Wi-Fi",
+      "Supported Video Platforms": "Microsoft Teams, Zoom, Google Meet, Works with Chromebook",
+      "Operating Modes": "USB BYOD Operation",
+      "Number of Supported Displays": "Single Display Support",
+      "Expansion Microphone Support": "A-2 Exp Mic",
+      "Device Management & Monitoring": "Poly Lens Cloud Management Platform",
+      "Mounting Options": "Wall Mount, Display Mount, VESA Mount, Table Placement Options",
+      "Dimensions & Weight": "Approx. 605 × 81 × 89 mm; Weight approx. 1.5–1.7 kg (varies by mounting kit)",
+      "Power Requirements": "PoE++ (802.3bt) or Optional USB-C Power Adapter"
+    },
+    "inTheBox": [
+      "HP Poly Studio V12",
+      "Removable privacy cap & monitor clamp",
+      "USB Type-C® cable",
+      "Quick start guide"
+    ],
+    "resources": [
+      {
+        "name": "Poly Studio V12 Video Bar  Datasheet (PDF)",
+        "type": "PDF",
+        "url": "/documents/poly-v12-1780664132248.pdf"
+      },
+      {
+        "name": "Poly Studio V12 Video Bar  User Manual (PDF)",
+        "type": "PDF",
+        "url": "https://kaas.hpcloud.hp.com/pdf-public/pdf_10889384_en-US-1.pdf"
+      }
+    ],
+    "id": "poly-a9dd8aa",
+    "image": "/images/products/image-3-1780662745846.png",
+    "images": [
+      "/images/products/image-3-1780662745846.png",
+      "/images/products/image-1-1780662850304.png",
+      "/images/products/final-poly-v-12-1780663432820.png",
+      "/images/products/image-4-1780670297995.png"
+    ],
+    "highlights": [
+      "• 20MP 4K camera delivers sharp video with 120° room coverage.",
+      "• AI-powered framing automatically keeps participants perfectly in view.",
+      "• NoiseBlockAI and Acoustic Fence reduce distractions for clearer conversations.",
+      "• USB plug-and-play setup supports leading video conferencing platforms."
+    ],
+    "youtubeUrl": "https://www.youtube.com/watch?v=Am_o0UR9tac"
+  }
+]
